@@ -145,13 +145,13 @@ border-color: #424242;
       display: block;
     }
 }
-
+/*
 @media only screen and (max-width: 1200px) {
     .block_center_per
     {
        text-align: center;
     }
-}
+}*/
 .character
 {
   width: 150px;
@@ -285,12 +285,12 @@ border-color: #424242;
     .head-main { 
         font-size:50px ;
     }
-}
+}/*
 @media all and (max-width:405px) and (min-width:200px) {
     .head-main { 
         font-size:35px ;
     }
-}
+}*/
 
 
 .triangle-common
